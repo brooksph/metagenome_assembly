@@ -29,6 +29,6 @@ Trimmomatic or skewer
 
 ## Assembly 
 
-Followiing qualirty assesment reads were assemdbled using MEGAHIT v1.03
+Followiing quality assesment reads were assemdbled using MEGAHIT v1.03
 
-
+The assembly can be found in /metagenome_assembly/data/assembly/ecoli_ref-5m.megahit_assembly/
