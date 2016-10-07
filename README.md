@@ -7,7 +7,7 @@ provided by Sherine Awad and avaiable
 
 All raw Fastq sequences are in 'data/seqs/':
 
-	$Find data/seqs -name ".fq.gz"
+	$find data/seq -name "*.fastq.gz"
 
 ## Quality control steps 
 
@@ -17,7 +17,7 @@ diagnostic and control pipeline:
 
 1. Create base quality diagnostic graphs 
 
-Fastqc v 
+Fastqc v 0.11.5
 
 2. Check reads for adapter sequences
 
@@ -27,6 +27,8 @@ Fastqc v
 
 Trimmomatic or skewer 
 
+## Assembly 
 
+Followiing qualirty assesment reads were assemdbled using MEGAHIT v1.03
 
 
