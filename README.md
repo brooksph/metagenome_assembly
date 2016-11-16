@@ -19,13 +19,18 @@ diagnostic and control pipeline:
 
 Fastqc v 0.11.5
 
-2. Check reads for adapter sequences
-
-3. Trim adapter sequences 
-
-4. Trim poor quality bases 
+2. Trim poor quality bases 
 
 Trimmomatic or skewer 
+
+3. Assembly 
+
+MegaHIT
+
+4. Assess assembly quality 
+
+Metaquast or 
+
 
 ## Assembly 
 
